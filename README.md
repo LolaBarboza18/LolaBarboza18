@@ -9,7 +9,11 @@
 
 ## Stack tecnológico 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,java,go,js,nodejs,react,git,c,figma,mongodb,nestjs,nextjs,postgres,py,ts,postman&perline=8)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,go,js,nodejs,react,git,c,figma,mongodb,nestjs,nextjs,postgres,py,ts,postman,expressjs,nosql&perline=10">
+  </a>
+</p>
 
 ## Contacto 📫
 - Mail: lolitabarboza15@gmail.com
