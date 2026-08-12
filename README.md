@@ -20,9 +20,7 @@
 - Mail: lolitabarboza15@gmail.com
 - LinkedIn: www.linkedin.com/in/lola-morena-barboza-590529251
 
-
----
-
+-
 
 ## ✨ Welcome to my Github ✨
 
