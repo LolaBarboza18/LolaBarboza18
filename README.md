@@ -1,9 +1,9 @@
-## Hi there 👋
+### ✨ Bienvenidos a mi Github ✨
 
-<!--
-**LolaBarboza18/LolaBarboza18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mi nombre es Lola Barboza. Soy estudiante de la Licenciatura en Sistemas y Tecnicatura Universitaria en Informática en la Universidad Nacional de General Sarmiento (UNGS). 
+# Me apasiona programar y aprender, y presento un enfoque autodidacta y curioso que siempre me lleva a innovar y nutrirme de nuevo conocimiento y tecnologías. Tengo un perfil Full Stack, pero me especializo en el desarrollo BackEnd de aplicaciones y en la gestión de Bases de Datos. ⚡
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
