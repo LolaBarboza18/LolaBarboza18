@@ -15,6 +15,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,go,js,nodejs,react,git,c,mongodb,nestjs,nextjs,postgres,py,ts,postman,expressjs,nosql&perline=9">
   </a>
 </p>
+
 ## Contacto 📫
 - Mail: lolitabarboza15@gmail.com
 - LinkedIn: www.linkedin.com/in/lola-morena-barboza-590529251
