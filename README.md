@@ -20,7 +20,7 @@
 - Mail: lolitabarboza15@gmail.com
 - LinkedIn: www.linkedin.com/in/lola-morena-barboza-590529251
 
--
+#
 
 ## ✨ Welcome to my Github ✨
 
@@ -32,7 +32,6 @@
 - 🌱 Percentage of progress in my career: Technical degree: 94.74%, Bachelor's degree: 52.63%
 
 ## Technology stack 🛠️
-
 
 <p align="center">
   <a href="https://skillicons.dev">
